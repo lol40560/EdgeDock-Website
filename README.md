@@ -29,6 +29,7 @@ EdgeDock is a native C# / WPF Windows utility that moves ordinary app windows be
 - Stackable windows with live DWM previews
 - Named workspaces and per-application docking rules
 - Keyboard quick switcher and stack cycling
+- Gaming Mode with automatic fullscreen protection and a user-managed game list
 - Crash-safe position journal and emergency recovery
 - Custom pull-tab colors, accessibility options, and reduced motion
 
